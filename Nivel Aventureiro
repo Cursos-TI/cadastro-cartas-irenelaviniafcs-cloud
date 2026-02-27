@@ -68,7 +68,7 @@ int main() {
    /* ==== CÁLCULOS CARTA 1 ==== */
 
   densidade1 = populacao1 / area1;
-  pibPerCapita1 = pib1 / populacao1;  
+  pibPerCapita1 = (pib1 * 1000000000) / populacao1;  
 
   /* ====== ENTRADA DE DADOS DA CARTA 2 ====*/
 
@@ -101,7 +101,7 @@ int main() {
   /* ==== CÁLCULOS CARTA 2 ==== */
 
   densidade2 = populacao2 / area2;
-  pibPerCapita2 = pib2 / populacao2;
+  pibPerCapita2 = (pib2 * 1000000000) / populacao2;
 
   /* ==== EXIBIÇÃO DE DADOS ==== */
 
