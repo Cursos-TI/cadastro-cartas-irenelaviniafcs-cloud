@@ -4,7 +4,7 @@ Autor: Lavínia
 Descricao:
 Este programa permite o cadastro de duas cartas do jogo Super Trunfo de Países.
 O usuario informa os dados de cada cidade, que sao armazenados em variaveis
-e exibidos na tela de forma organizada.
+e exibidos na tela de forma organizada
 */
 
 #include <stdio.h>
